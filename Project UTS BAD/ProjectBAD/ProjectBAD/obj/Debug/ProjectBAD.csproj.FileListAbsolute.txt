@@ -1,0 +1,20 @@
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.exe.config
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.exe
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.pdb
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.Form1.resources
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.exe
+C:\Users\ASUS\source\repos\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.pdb
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.exe.config
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.exe
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\bin\Debug\ProjectBAD.pdb
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csprojAssemblyReference.cache
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.Form1.resources
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.Properties.Resources.resources
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csproj.GenerateResource.cache
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.csproj.CoreCompileInputs.cache
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.exe
+D:\2 TI A\Andra_2TIA_BAD\Program\ProjectBAD\ProjectBAD\obj\Debug\ProjectBAD.pdb
